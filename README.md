@@ -1,4 +1,4 @@
-store
+ReactStore
 =====
 
-test
+E-commerce app using Recat frontend and Magento backend
